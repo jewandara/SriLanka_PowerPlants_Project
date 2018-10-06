@@ -1,0 +1,7 @@
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\bin\Release\NEW.exe
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\bin\Release\NEW.pdb
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Release\NEW.Form1.resources
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Release\NEW.Properties.Resources.resources
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Release\NEW.csproj.GenerateResource.Cache
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Release\NEW.exe
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Release\NEW.pdb

@@ -1,0 +1,10 @@
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\bin\Debug\NEW.exe
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\bin\Debug\NEW.pdb
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Debug\NEW.Form1.resources
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Debug\NEW.Properties.Resources.resources
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Debug\NEW.csproj.GenerateResource.Cache
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Debug\NEW.exe
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Debug\NEW.pdb
+C:\Users\planet_WN\Desktop\New folder\NEW\NEW\obj\x86\Debug\NEW.csprojResolveAssemblyReference.cache
+F:\New folder\New folder\NEW\NEW\obj\x86\Debug\NEW.exe
+F:\New folder\New folder\NEW\NEW\obj\x86\Debug\NEW.pdb
